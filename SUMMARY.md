@@ -11,6 +11,7 @@
   - [Kotlin JDSL](./skill/Kotlin_JDSL.md)
   - [Valkey](./skill/valkey.md)
 
-- [문서화](./documentation/INDEX.md)
+- [테스트](./documentation/INDEX.md)
 
   - [API 명세서](./documentation/api_specification.md)
+  - [API 테스트](./documentation/api_test.md)
